@@ -1,0 +1,9 @@
+name: McAi
+version: '${project.version}'
+main: me.immortal.mcai.main
+api-version: 1.19
+depend:
+- Citizens
+commands:
+  npcspawn:
+    descrption: Spawn an NPC
